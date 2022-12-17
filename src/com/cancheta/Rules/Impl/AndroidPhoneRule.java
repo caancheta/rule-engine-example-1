@@ -1,4 +1,7 @@
-package com.cancheta;
+package com.cancheta.Rules.Impl;
+
+import com.cancheta.Models.Phone;
+import com.cancheta.Rules.IRule;
 
 public class AndroidPhoneRule<I, O> implements IRule<Phone, Phone>{
 

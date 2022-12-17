@@ -1,4 +1,4 @@
-package com.cancheta;
+package com.cancheta.Models;
 
 public class Phone {
 

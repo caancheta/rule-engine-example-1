@@ -1,4 +1,4 @@
-package com.cancheta;
+package com.cancheta.Rules;
 
 /** 
  * 

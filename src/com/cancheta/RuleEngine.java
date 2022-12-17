@@ -2,6 +2,9 @@ package com.cancheta;
 
 import java.util.*;
 
+import com.cancheta.Models.Phone;
+import com.cancheta.Rules.IRule;
+
 public class RuleEngine {
     List<IRule<Phone,Phone>> rulesList = new ArrayList<>();
 

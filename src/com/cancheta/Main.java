@@ -1,6 +1,9 @@
 package com.cancheta;
 
-import com.cancheta.Phone.OSType;
+import com.cancheta.Models.Phone;
+import com.cancheta.Models.Phone.OSType;
+import com.cancheta.Rules.Impl.AndroidPhoneRule;
+import com.cancheta.Rules.Impl.IPhoneRule;
 
 public class Main {
 
